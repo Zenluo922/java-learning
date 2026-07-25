@@ -51,7 +51,7 @@ public static synchronized void sellTicket() {
 → 线程一拿着 A 等 B，线程二拿着 B 等 A，互相等，卡死
 ```
 
-### 你的代码对应
+### 代码对应
 
 ```java
 // 线程一
